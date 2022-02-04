@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hello - This change is for feature 1. Updated caption on phuong's slide.
+testing with eclipse ide. Need to use SSH for it to work
 
+  sdfdf
 ![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
 {: .center}
